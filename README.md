@@ -9,4 +9,4 @@ This is a version of the <a href="http://dbis.informatik.uni-goettingen.de/Mondi
 <li>The database is supplied as a set of four ANSI SQL files that should run on most modern SQL DBMS systems unaltered.</li>
 </el>
 
-Running the SQL files (in order) mondial_schema.sql and mondial_data.sql will recreate the original Mondial database with foreign keys added and tables named in lower case. Then running mondial_extra.sql and mondial_plus.sql give the extra tables, and restructuring described above.
+Running the SQL files (in order) mondial_schema.sql and mondial_data.sql will recreate the original Mondial database with foreign keys added and tables named in lower case. Then running mondial_plus.sql and mondial_extra.sql give the extra tables, and restructuring described above.
